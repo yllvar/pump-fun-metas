@@ -1,12 +1,12 @@
-# ApeThisPumpFun
+# ApeThisPump.Fun
 
-ApeThisPumpFun is a fun web application that provides real-time information about pump.fun tokens. Its modular structure, use of modern web technologies, and focus on user experience make it a solid foundation for further development and expansion in the crypto information space.
+ApeThisPump.Fun is a fun web application that provides real-time information about pump.fun tokens. Its modular structure, use of modern web technologies, and focus on user experience make it a solid foundation for further development and expansion in the crypto information space.
 
 ![Ape This](https://github.com/user-attachments/assets/89ae04cc-6e03-4ede-8a4d-d2836a54c120)
 
 ## 1. Overview
 
-ApeThisPumpFun is a web application built with Next.js that provides real-time information about cryptocurrency tokens on the pump.fun platform. The application offers various features such as current metas, meta search, a token ticker, and live coin information.
+ApeThisPump.Fun is a web application built with Next.js that provides real-time information about cryptocurrency tokens on the pump.fun platform. The application offers various features such as current metas, meta search, a token ticker, and live coin information.
 
 ### 1.1 Goals
 
@@ -180,8 +180,6 @@ Key layout features:
 - Add more interactive features like real-time price charts
 - Optimize performance further, possibly by implementing virtualization for long lists
 - Expand search capabilities and filtering options
-- Implement a dark/light theme toggle
-
 
 ## 9. Conclusion
 
